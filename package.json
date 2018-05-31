@@ -35,7 +35,7 @@
   "peerDependencies": {
     "prop-types": "*",
     "react": "*",
-    "react-dom": "*",
+    "react-dom": "*"
   },
   "devDependencies": {
     "@types/react": "^16.3.9",
