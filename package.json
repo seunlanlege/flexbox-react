@@ -35,8 +35,7 @@
   "peerDependencies": {
     "prop-types": "*",
     "react": "*",
-	"react-dom": "*",
-	"styled-components": "*"
+    "react-dom": "*",
   },
   "devDependencies": {
     "@types/react": "^16.3.9",
@@ -65,5 +64,8 @@
   },
   "jest": {
     "testEnvironment": "jsdom"
+  },
+  "dependencies": {
+    "styled-components": "^3.3.0"
   }
 }
